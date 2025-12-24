@@ -1,0 +1,9 @@
+{
+  "description": "A unified cyber-intelligence and simulation stack with real-time multi-tab synchronization, OSINT tools, hacking minigames, and AI-driven investigation analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "App"
+}
